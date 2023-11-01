@@ -1,2 +1,2 @@
 # Person
-Person class in Java
+Person class in Java for CST-239
